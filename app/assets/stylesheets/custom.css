@@ -1,0 +1,21 @@
+body {
+    background-color: #fbe0f3; 
+  }
+  
+  footer {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    padding: 20px; 
+  }
+   
+  .social-media-links a {
+    margin-right: 10px; 
+    color: #99b8fb; 
+    text-decoration: none; 
+  }
+  
+  .social-media-links a:hover {
+    color: #5374f8; 
+  }
+  
